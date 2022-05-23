@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Register Utest Page" skipped="0" tests="1" time="31.56" timestamp="2022-05-23 09:50:57"><testcase name="Create an account"><failure message="Expected answer&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected answer
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected answer
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.choucair.certification.utest.stepdefinitions.uteststepdefinitions.sheRegisterTheInformationForTheSuccessfulCreationOfTheAccount(uteststepdefinitions.java:35)&#13;
+✽.she register the information for the successful creation of the account(src/test/resources/features/utest.feature:10)&#13;
+</system-err></testcase></testsuite>
